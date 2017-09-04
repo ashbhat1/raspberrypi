@@ -4,6 +4,8 @@
 #include<fcntl.h>
 #include<unistd.h>
 
+//reference website: https://www.muddyengineer.com/c-programming-raspberry-pi-2-gpio-driver/
+//BCM2835 manual: https://www.raspberrypi.org/app/uploads/2012/02/BCM2835-ARM-Peripherals.pdf
 
 //setting up the initial address
 #define BCM2837_PERI_ADDR 0x3F000000 //base address for peripherals
