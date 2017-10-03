@@ -1,0 +1,4 @@
+http://tuxradar.com/content/how-it-works-linux-audio-explained
+http://wiki.audacityteam.org/index.php?title=USB_mic_on_Linux
+
+
