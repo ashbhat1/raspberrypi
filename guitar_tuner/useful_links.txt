@@ -1,5 +1,5 @@
 http://tuxradar.com/content/how-it-works-linux-audio-explained
 http://wiki.audacityteam.org/index.php?title=USB_mic_on_Linux
 http://www.instructables.com/id/How-to-Record-Voice-With-USB-Microphone-Then-Play-/
-
+http://users.suse.com/~mana/alsa090_howto.html
 

@@ -1,0 +1,2 @@
+arecord /home/pi/Desktop/a.wav -D sysdefault:CARD=1
+omxplayer -p -o hdmi /home/pi/Desktop/a.wav
